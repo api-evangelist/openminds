@@ -1,0 +1,45 @@
+{
+    "name": "OpenMinds",
+    "description": "<p>OpenMinds is a learning platform that instantly transforms any content (your content or 3rd party content) into engaging learning apps.&nbsp; Your students play the apps on any platform to learn and master specific skills, such as vocabulary, spelling, grammar, punctuation and much more.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/open-minds-logo.png",
+    "tags": [
+        "adaptive learning",
+        "have api",
+        "quizzes"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openminds\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenMinds",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/open-minds-logo.png",
+            "humanURL": "http:\/\/openminds.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openminds-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.openminds.io\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/openminds.io\/developers"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openminds.io"
+        }
+    ]
+}
